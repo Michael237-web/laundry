@@ -1,0 +1,24 @@
+========================
+=== NEW BOOKING ===
+Name: jkds
+Email: michaelmwanzia@gmail.com
+Phone: 0740463326
+Address: Kenyatta Avenue, Westlands 123
+Service: Wash & Fold
+Pickup Date: 2026-05-06
+Instructions: ds
+Time: 2026-05-22 17:51:15
+========================
+
+========================
+=== NEW BOOKING ===
+Name: Evans Wambua
+Email: evans@gmail.com
+Phone: 0740463326
+Address: Kenyatta Avenue, Westlands 123
+Service: Wash & Fold
+Pickup Date: 2026-06-03
+Instructions: ed
+Time: 2026-05-22 17:52:09
+========================
+
