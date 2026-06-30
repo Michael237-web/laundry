@@ -17,14 +17,14 @@
 ### 📱 Services Page
 ![Services](screenshots/laundryservices.png)
 
-### 📄 Booking Page
-![Booking](screenshots/laundrybooking.png)
+### 📄 Pricing Page
+![Pricing](screenshots/laundrypricing.png)
+
+### 📍 Location Page
+![Location](screenshots/laundrylocation.png)
 
 ### 📧 Contact Page
 ![Contact](screenshots/laundrycontact.png)
-
-### ℹ️ About Page
-![About](screenshots/laundryabout.png)
 
 ---
 
@@ -39,26 +39,14 @@
 ### 📱 Services
 ![Services](screenshots/laundryservices.png)
 
-### 📄 Booking
-![Booking](screenshots/laundrybooking.png)
+### 💰 Pricing
+![Pricing](screenshots/laundrypricing.png)
+
+### 📍 Location
+![Location](screenshots/laundrylocation.png)
 
 ### 📧 Contact
 ![Contact](screenshots/laundrycontact.png)
-
-### ℹ️ About
-![About](screenshots/laundryabout.png)
-
-### 🔐 Login Page
-![Login](screenshots/laundrylogin.png)
-
-### 📝 Registration
-![Register](screenshots/laundryregister.png)
-
-### 👤 User Dashboard
-![Dashboard](screenshots/laundrydashboard.png)
-
-### 📱 Mobile View
-![Mobile](screenshots/laundrymobile.png)
 
 </details>
 
@@ -83,6 +71,7 @@
 - **Order History** - View all past and current orders
 - **Contact Form** - Send inquiries to support team
 - **Newsletter** - Subscribe for updates and promotions
+- **Location Finder** - Find nearest laundry service location
 
 ### 👑 Admin Features
 - **Dashboard Overview** - View key metrics (orders, revenue, customers)
@@ -99,6 +88,7 @@
 - **Interactive Elements** - Hover effects, animations, smooth scrolling
 - **Fast Loading** - Optimized images and code
 - **Accessibility** - WCAG-friendly design
+- **Professional Layout** - User-friendly interface
 
 ---
 
@@ -113,7 +103,7 @@
 - **HTML5** - Semantic markup
 - **CSS3** - Custom styling
 - **JavaScript** - Interactive elements
-- **Bootstrap 5** - Responsive framework
+- **Bootstrap 5** - Responsive framework (optional)
 
 ### Payment Integration
 - **M-Pesa** - Mobile money payments
