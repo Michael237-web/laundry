@@ -24,7 +24,8 @@
 
 
 ### 📍 Location Page
-![Location](screenshots/laundrylocation.png)
+<img width="1351" height="643" alt="image" src="https://github.com/user-attachments/assets/70e7a99b-83bd-44c2-bab5-485f30fcab12" />
+
 
 ### 📧 Contact Page
 ![Contact](screenshots/laundrycontact.png)
