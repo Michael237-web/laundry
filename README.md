@@ -16,7 +16,8 @@
 
 
 ### 📱 Services Page
-![Services](screenshots/laundryservices.png)
+<img width="1351" height="643" alt="image" src="https://github.com/user-attachments/assets/474c697e-a3de-47db-8477-0a10d248857d" />
+
 
 ### 📄 Pricing Page
 ![Pricing](screenshots/laundrypricing.png)
