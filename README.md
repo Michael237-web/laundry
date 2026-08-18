@@ -12,7 +12,8 @@
 ## 📸 Screenshots
 
 ### 🏠 Homepage
-![Homepage](screenshots/laundryhome.png)
+<img width="1351" height="643" alt="image" src="https://github.com/user-attachments/assets/424aec7c-3cf0-4ac8-8324-3083ade10b23" />
+
 
 ### 📱 Services Page
 ![Services](screenshots/laundryservices.png)
