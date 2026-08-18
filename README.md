@@ -28,7 +28,8 @@
 
 
 ### 📧 Contact Page
-![Contact](screenshots/laundrycontact.png)
+<img width="1351" height="643" alt="image" src="https://github.com/user-attachments/assets/b1c4e67b-8061-4d3d-bf26-8f4616febea2" />
+
 
 ---
 
@@ -38,19 +39,24 @@
 <summary>Click to view all screenshots</summary>
 
 ### 🏠 Homepage
-![Homepage](screenshots/laundryhome.png)
+<img width="1351" height="643" alt="image" src="https://github.com/user-attachments/assets/424aec7c-3cf0-4ac8-8324-3083ade10b23" />
 
-### 📱 Services
-![Services](screenshots/laundryservices.png)
 
-### 💰 Pricing
-![Pricing](screenshots/laundrypricing.png)
+### 📱 Services Page
+<img width="1351" height="643" alt="image" src="https://github.com/user-attachments/assets/474c697e-a3de-47db-8477-0a10d248857d" />
 
-### 📍 Location
-![Location](screenshots/laundrylocation.png)
 
-### 📧 Contact
-![Contact](screenshots/laundrycontact.png)
+### 📄 Pricing Page
+<img width="1351" height="643" alt="image" src="https://github.com/user-attachments/assets/da3a8f6f-cc23-4b85-8918-e637848ce170" />
+
+
+### 📍 Location Page
+<img width="1351" height="643" alt="image" src="https://github.com/user-attachments/assets/70e7a99b-83bd-44c2-bab5-485f30fcab12" />
+
+
+### 📧 Contact Page
+<img width="1351" height="643" alt="image" src="https://github.com/user-attachments/assets/b1c4e67b-8061-4d3d-bf26-8f4616febea2" />
+
 
 </details>
 
