@@ -20,7 +20,8 @@
 
 
 ### 📄 Pricing Page
-![Pricing](screenshots/laundrypricing.png)
+<img width="1351" height="643" alt="image" src="https://github.com/user-attachments/assets/da3a8f6f-cc23-4b85-8918-e637848ce170" />
+
 
 ### 📍 Location Page
 ![Location](screenshots/laundrylocation.png)
